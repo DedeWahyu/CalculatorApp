@@ -95,7 +95,6 @@ namespace CalculatorApp
       {
         Console.WriteLine("PILIHAN YANG DIMASUKKAN SALAH !");
         goto menu_calculator;
-        Console.Clear();
       }
 
 
